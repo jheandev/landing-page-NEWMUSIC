@@ -1,0 +1,50 @@
+
+@import url('https://fonts.googleapis.com/css2? family= Open+Sans & family= Poppins:wght@300;400;500;600;700 & display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+ 
+}
+
+.home-content{
+    background: #000;
+}
+   
+
+.grupo-play{
+    height: 85vh;
+    display: flex;
+    align-items: center;
+    padding: 0px 10%;
+}
+
+.img-play{
+    display: flex;
+    align-items: center;
+    gap: 2.5rem;
+    margin-bottom: 5rem;
+ 
+}
+
+.titulo-paly{
+    font-size: 3.2rem;
+    color: white;
+    margin-bottom: 5rem;
+}
+
+
+.sub-titulo-play{  
+font-size: 1.1rem;
+color: white;
+
+
+}
+
+.img-principal{
+    width: 32rem;
+    margin-left: 200px;
+}
+

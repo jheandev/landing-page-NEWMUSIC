@@ -1,0 +1,198 @@
+
+*{
+    margin: 0;
+    padding:0 ;
+    box-sizing: border-box;
+}
+
+
+
+
+.event-principal{
+    width: 100vw;
+    height: 100vh;
+    background: #18181b;
+    display: flex;
+    align-items: center;
+}
+
+
+.form-titulo{
+    width: 50vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 55px;
+    color: white;
+  
+    
+
+}
+
+.right-login{
+    width: 50vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+.card-login{
+    width: 80% ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 30px 35px;
+    background: #000;
+    border-radius: 20px;
+
+}
+
+.form-group{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    margin: 10px 0px;
+
+}
+
+.form-group input{
+    width: 100%;
+    border-radius: 20px;
+    padding: 15px;
+    background-color: #000;
+    border-color: white;
+    font-size: 25pt;
+    box-sizing: border-box;
+   
+}
+
+.form-group label{
+    color: white;
+    margin-bottom:20px ;
+    font-size: 30px;
+
+
+}
+
+.btn{
+    width: 72%;
+    padding: 15pt;
+    border-radius: 20px;
+    margin: 20px;
+    color: white;
+    background-color:  #00C9FB;
+    font-size: 35px;
+    text-align: center;
+    font-weight: bold;
+}
+
+
+
+span{
+    color:#FD03C6;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .event-principal{
+    width: 100vw;
+    height: 100vh;
+    background: #18181b;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+   
+}
+
+.form-titulo{
+    font-size: 45px;
+    color: white;
+    
+
+}
+
+.for-principal{
+    height: 90%;
+    width: 40%;
+    padding: 30px 70px;
+    background: #000;
+    border-radius: 20px;
+   
+  
+  
+}
+
+.form-group{
+ 
+   display: flex; 
+   flex-direction: column;
+   align-items: flex-start;
+   margin-bottom: 15px; 
+ 
+}
+
+.form-group label{
+    margin-bottom: 20px;
+    font-size: 40px;
+    color: white;
+}
+
+
+.form-group input{
+    height: 100%;
+    width: 100%;
+    border-radius: 20px;
+    border-color: white;
+    padding: 25px;
+    background-color: #000;
+    box-sizing: border-box;
+    margin: 0 auto; /* adição de margem automática */
+ 
+
+   
+/* 
+
+.btn{
+    background-color:  #00C9FB;
+ 
+    width: 50%;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 35px;
+    margin-top: 20px;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    
+}
+ */ 
+
+
+
+
+
+
+
+
+
+
+
+
+
